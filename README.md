@@ -5,15 +5,16 @@ This project displays real-time price data for stocks or cryptocurrencies using 
 
 ## Installation
 1. Clone the repository:
-git clone https://github.com/yourusername/your-project-name.git
+git clone https://github.com/ayush-020198/real-time-crypto-price.git
 
 
 2. Install dependencies:
-cd your-project-name
+cd real-time-crypto-price
 npm install
 
 3. Set up environment variables:
 - Create a `.env` file and add `MONGO_URI=your_mongodb_connection_string`.
+- Create the api key and add `API_KEY=api_key`.
 
 ## Running the Application
 1. Start the development server:
